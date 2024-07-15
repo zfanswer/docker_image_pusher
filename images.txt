@@ -7,4 +7,5 @@ xhofe/alist:latest
 
 #添加需要migration的镜像
 eosphorosai/dbgpt:latest
-
+xprobe/xinference:latest
+xprobe/xinference:latest-cpu
